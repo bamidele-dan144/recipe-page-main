@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+    background-color: hsl(30, 54%, 90%);
+    font-size: 16px;
+    
+}
+.card{
+    background-color:  hsl(330, 100%, 98%);
+    width: 400px;
+    height: 1000px;
+    margin: auto;
+    border-radius: 10px;
+}
+#img1{
+    width: 350px;
+    height: 120px;
+    margin-left: 24px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+#heading1{
+    font-size: 20px;
+    color: hsl(24, 5%, 18%);
+    margin-left: 24px;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+}
+#paragraph1{
+   width: 350px;
+    font-size: 9px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    margin-left: 24px;
+    color: hsl(24, 5%, 18%) ;
+}
+.container2{
+    background-color: rgb(252, 220, 225);
+    width: 350px;
+    border-radius: 10px;
+    margin-left: 24px;
+    height: 95px;
+}
+#heading2{
+margin-left: 24px;
+color: purple;
+font-family: "Outfit", sans-serif;
+font-size: 14px;
+padding-top: 9px;
+font-weight: 700;
+
+
+
+}
+#list1{
+    color: hsl(24, 5%, 18%);
+    font-size: 9px;
+    font-family: "Outfit", sans-serif;
+    padding-bottom: 100px;
+    font-weight: 400;
+}
+#li1{
+    padding-bottom: 5px;
+}
+#li2{
+    padding-bottom: 5px;
+}
+#li3{
+    padding-bottom: 5px;
+}
+.container3{
+    border-bottom: 1px solid  hsl(24, 5%, 18%) ;
+    width: 350px;
+    margin-left: 24px;
+}
+#heading3{
+    font-family: "Young Serif", serif;
+    font-size: 16px;
+    margin-left: 24px;
+    color: hsl(14, 45%, 36%);
+    font-weight: 400;
+}
+#list2{
+    font-size: 9px;
+}
+#li4{
+    padding-bottom: 5px;
+}
+#li5{
+    padding-bottom: 5px;
+}
+#li6{
+    padding-bottom: 5px;
+}
+#li7{
+    padding-bottom: 5px;
+}
+#li8{
+    padding-bottom: 5px;
+}
+.container4{
+    width: 350px;
+    border-bottom: 1px solid  hsl(24, 5%, 18%) ;
+    margin-left: 24px;
+}
+#heading4{
+    font-family: "Young Serif", serif;
+    font-size: 16px;
+    margin-left: 24px;
+    color: hsl(14, 45%, 36%);
+    font-weight: 400;
+}
+#list3{
+    font-size: 9px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    color:  hsl(24, 5%, 18%) ;
+    
+}
+#li9{
+    padding-bottom: 5px;
+}
+#li10{
+    padding-bottom: 5px;
+}
+#li11{
+    padding-bottom: 5px;
+}
+#li12{
+    padding-bottom: 5px;
+}
+#li13{
+    padding-bottom: 5px;
+}
+#li14{
+    padding-bottom: 5px;
+}
+.container5{
+    width: 350px;
+    margin: auto;
+
+   
+
+    
+}
+#heading5{
+    font-family: "Young Serif", serif;
+    font-size: 16px;
+    margin-left: 24px;
+    color: hsl(14, 45%, 36%);
+    font-weight: 400;
+    
+}
+#paragraph2{
+    color: hsl(24, 5%, 18%) ;
+    font-size: 8px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    margin: 24px;
+    margin-top: 2px;
+    padding-top: 0;
+
+}
+#art1{
+    color: hsl(24, 5%, 18%) ;
+    font-size: 8px;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    gap: 150px;
+    border-bottom: 1px solid  hsl(24, 5%, 18%) ;
+    width: 300px;
+    margin-left: 0;
+}
+#art2{
+    color: hsl(24, 5%, 18%) ;
+    font-size: 8px;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    gap: 150px;
+    border-bottom: 1px solid  hsl(24, 5%, 18%) ;
+    width: 300px;
+}
+#art3{
+    color: hsl(24, 5%, 18%) ;
+    font-size: 8px;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    gap: 150px;
+    border-bottom: 1px solid  hsl(24, 5%, 18%) ;
+    width: 300px;
+}
+#art4{
+    color: hsl(24, 5%, 18%) ;
+    font-size: 8px;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    gap: 150px;
+    width: 300px;
+    
+}
+.container5>strong{
+    color:hsl(14, 45%, 36%) ;
+}
+.article{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-left: 30px;
+    padding-top: 0%;
+}
+strong{
+    color: hsl(14, 45%, 36%) ;
+}
+.attribution{
+    display: flex;
+    justify-content: center;
+}
